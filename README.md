@@ -16,7 +16,7 @@ Bem-vindo ao meu cartão de visitas digital! Este projeto é um agregador de lin
 
 Acesse a versão final e funcional do meu cartão de visitas digital no link abaixo:
 
-**[➡️ Meus Links - Daniel Félix]([COLOQUE AQUI O SEU LINK DO GITHUB PAGES])**
+**[➡️ Meus Links - Daniel Félix](https://danfelixx11.github.io/danfelix-links/)**
 
 ## ✨ Sobre o Projeto
 
